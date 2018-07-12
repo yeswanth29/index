@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Amita');
+@import url('https://fonts.googleapis.com/css?family=Annie');
+.vit{
+    position: fixed;
+    padding: 0px 0px 0px 0px;
+    opacity: 0.1;
+    filter: alpha(opacity=10);
+}
+.heading{
+    text-align: center;
+    text-color: white;
+    font-size: 20px;
+
+    background-color: green;
+    border-radius: 25px;
+
+}
+#para{
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    text-color: green;
+    background-color: yellow;
+}
+.subs{
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+.sub1 img{
+    position: relative;
+
+    color: white;
+    width: 500px;
+
+    opacity: 0.3;
+    filter: alpha(opacity=10);
+}
+.sub1{
+    background-image: image("pic.jpg");
+}
+.ll{
+    position: relative;
+
+
+
+    font-style: italic;
+    font-weight: bold;
+    font-display: fallback;
+    font-size: 20px;
+
+}
+h2{
+    border-bottom: 1px solid black;
+    background-color: pink;
+    font-style: Amita;
+}
+.sub2 img{
+    position: relative;
+
+    color: white;
+    width: 500px;
+
+    opacity: 0.3;
+    filter: alpha(opacity=10);
+}
+.sub2 ol{
+    position: relative;
+
+    
+    font-style: italic;
+    font-weight: bold;
+    font-display: fallback;
+    font-size: 20px;
+
+
+    list-style-type: none;
+
+
+}
+.sub2 p{
+    background-color: black;
+    color: white;
+}
+h3{
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 40px;
+    text-align: center;
+
+}
+.days{
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+.day1{
+    font-style: Annie;
+    background-color: RGB(238, 170, 17);
+}
+.day3{
+    background-color: RGB(0, 128, 0);
+}
